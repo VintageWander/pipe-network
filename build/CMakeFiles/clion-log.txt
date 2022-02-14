@@ -1,0 +1,4 @@
+/opt/homebrew/Cellar/cmake/3.22.1/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/opt/homebrew/Cellar/gcc/11.2.0_3/bin/aarch64-apple-darwin21-gcc-11 -DCMAKE_CXX_COMPILER=/opt/homebrew/Cellar/gcc/11.2.0_3/bin/aarch64-apple-darwin21-g++-11 -G "Unix Makefiles" /Users/wander/Downloads/pipe-network
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/wander/Downloads/pipe-network/build
